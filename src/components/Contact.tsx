@@ -85,7 +85,7 @@ const Contact = () => {
           </h2>
           <div className="w-24 h-1 bg-primary-600 mx-auto mb-4"></div>
           <p className="text-dark-600 dark:text-dark-300 max-w-2xl mx-auto">
-            I'm always open to discussing new projects, opportunities, or just having a chat about tech!
+            I&apos;m always open to discussing new projects, opportunities, or just having a chat about tech!
           </p>
         </motion.div>
 

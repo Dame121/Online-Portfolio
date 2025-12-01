@@ -15,7 +15,7 @@ const Footer = () => {
             © {currentYear} Damewan Bareh. All rights reserved.
           </p>
           <p className="text-dark-500 dark:text-dark-400 text-sm italic">
-            "Building intelligent solutions, one commit at a time"
+            &ldquo;Building intelligent solutions, one commit at a time&rdquo;
           </p>
         </div>
       </div>

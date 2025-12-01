@@ -208,7 +208,7 @@ const Experience = () => {
           className="mt-16 bg-gradient-to-br from-primary-600 via-purple-600 to-pink-500 rounded-3xl p-8 shadow-2xl"
         >
           <h3 className="text-3xl font-bold mb-6 text-white text-center">
-            What I'm Working On
+            What I&apos;m Working On
           </h3>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 text-white">
             {[
