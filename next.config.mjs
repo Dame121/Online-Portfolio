@@ -7,9 +7,6 @@ const nextConfig = {
         hostname: 'github.com',
       },
     ],
-  },
-};
-  images: {
     domains: ['avatars.githubusercontent.com', 'github.com'],
   },
   reactStrictMode: true,
